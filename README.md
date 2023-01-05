@@ -2,6 +2,8 @@
 
 This is the first homework of the NLP 2022 course at Sapienza University of Rome.
 
+Dataset and checkpoint is omitted for confidentiality 
+
 #### Instructor
 
 * **Roberto Navigli**
